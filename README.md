@@ -11,7 +11,7 @@ Moving object detection is a technique used in computer vision and image process
     -  Calculating median and average frames, for better outlier removal  
  <br>   
    
-- Processing a Frame  
+- Processing a Frame    
     -  Studying a single frame separately (first frame)  
     -  Converting the Median and sample image to grayscale
   <br>   
