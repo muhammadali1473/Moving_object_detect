@@ -15,7 +15,7 @@ Moving object detection is a technique used in computer vision and image process
     -  Studying a single frame separately (first frame)     
     -  Converting the Median and sample image to grayscale   
   <br>     
-        
+           
 - Background Removal : Performing Absolute Difference between gray_frame_sample and gray_frame_median to get the moving objects only, with the background removed
  <br>  
  
