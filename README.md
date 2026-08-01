@@ -17,7 +17,7 @@ Moving object detection is a technique used in computer vision and image process
   <br>     
            
 - Background Removal : Performing Absolute Difference between gray_frame_sample and gray_frame_median to get the moving objects only, with the background removed
- <br>  
+ <br>     
  
 - Blurring : Performing Gaussian Blur for noise reduction and to simplify edge detection
  <br>
