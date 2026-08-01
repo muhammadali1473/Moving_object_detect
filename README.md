@@ -20,7 +20,7 @@ Moving object detection is a technique used in computer vision and image process
  <br>     
  
 - Blurring : Performing Gaussian Blur for noise reduction and to simplify edge detection
- <br>
+ <br>    
  
 - Binarizing the image - Thresholding : Performing Threshold and OTSU Threshold to bring the moving objects out clearly
  <br>
